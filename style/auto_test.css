@@ -1,0 +1,43 @@
+h1, h2, h3, h4 {
+			font-family: 'Vollkorn', serif;
+		}
+
+		.leftimg {
+            float:left; /* Выравнивание по левому краю */
+            margin: 5px 15px 5px 15px; /* Отступы вокруг картинки */
+            border-radius: 15px;
+        }
+        .colortext1 {
+        	color: #FFFFFF;
+        }
+        .colortext2 {
+        	color: #728CAF;
+        }
+		table{ 
+			border-collapse: collapse;
+
+		}
+		thead{
+			background: #DCEBFF;
+		}
+		tbody{
+			;
+		}
+		tfoot{
+			background: #F8F8F8
+		}
+		th, td{
+			padding: 5px 15px;
+		}
+		p{
+			font-family: 'Lato', sans-serif;
+			padding: 5px 15px;
+			color: #202226s;
+		}
+		a{
+			text-decoration: none;
+		}
+		a:hover {
+        
+        background: #d0e3fd;
+        }
